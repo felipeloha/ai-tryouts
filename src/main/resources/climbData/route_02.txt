@@ -1,0 +1,1 @@
+{"id":107283478,"name":"Kunstflug","type":"Sport","rating":"5.10c\/d","stars":5,"starVotes":3,"pitches":"","location":["International","Europe","Germany","Frankenjura","Roter Fels","Roter Fels 2"],"url":"https:\/\/www.mountainproject.com\/route\/107283478\/kunstflug","imgSqSmall":"","imgSmall":"","imgSmallMed":"","imgMedium":"","longitude":11.496,"latitude":49.6023}

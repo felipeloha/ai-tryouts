@@ -1,0 +1,1 @@
+{"id":114469990,"name":"Igor","type":"Sport","rating":"5.9","stars":5,"starVotes":1,"pitches":"","location":["International","Europe","Germany","Frankenjura","Hartensteiner Wand"],"url":"https:\/\/www.mountainproject.com\/route\/114469990\/igor","imgSqSmall":"","imgSmall":"","imgSmallMed":"","imgMedium":"","longitude":11.5243,"latitude":49.5922}
